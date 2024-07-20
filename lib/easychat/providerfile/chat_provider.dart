@@ -67,6 +67,7 @@ class ChatProvider with ChangeNotifier {
         'lastMessage':'',
         'timestamp':FieldValue.serverTimestamp(),
       });
+      return chatRoom.id;
     }
     throw Exception('No Current User');
   }

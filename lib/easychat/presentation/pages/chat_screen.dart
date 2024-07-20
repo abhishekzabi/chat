@@ -83,6 +83,9 @@ class _ChatScreenState extends State<ChatScreen> {
                           controller: _textController,
                           decoration: InputDecoration(
                               hintText: "Enter your Message..",
+                              // ////////////////////////////////////////////////////
+                              hintStyle: TextStyle(color: Colors.black),
+                            
                               border: InputBorder.none),
                         )),
                         IconButton(

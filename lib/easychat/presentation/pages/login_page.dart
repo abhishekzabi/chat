@@ -25,9 +25,9 @@ class _Login_pageState extends State<Login_page> {
   Widget build(BuildContext context) {
     final authProvider=Provider.of<AuthProvider>(context);
     return Scaffold(
-      appBar: AppBar(
-        title: Text("Login"),
-      ),
+      // appBar: AppBar(
+      //   title: Text("Login"),
+      // ),
       body:Padding(
         padding: const EdgeInsets.all(10.0),
         child: 

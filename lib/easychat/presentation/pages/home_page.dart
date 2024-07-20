@@ -1,3 +1,4 @@
+import 'package:chatapp/core/theme/app_pellete.dart';
 import 'package:chatapp/easychat/presentation/pages/login_page.dart';
 import 'package:chatapp/easychat/presentation/pages/search_screen.dart';
 import 'package:chatapp/easychat/presentation/widgets/chat_tile.dart';
@@ -58,7 +59,7 @@ class _Home_pageState extends State<Home_page> {
     return PopScope(
       canPop: false,
       child: Scaffold(
-        backgroundColor: Colors.white,
+        backgroundColor:AppPallete.backgroundColor,
         appBar: AppBar(
           title: Text("Chats"),
           actions: [
