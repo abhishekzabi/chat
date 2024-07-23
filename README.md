@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-# easychat_chatapp
-=======
-<<<<<<< HEAD
-# chatapp_task
-=======
-# chatapp
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 478514e (chatapp_task)
->>>>>>> a0bea22 (chatapp_task)
+# FLUTTER CHAT APP
+![Screenshot 2024-07-20 205732](https://github.com/user-attachments/assets/bd7c513a-0af5-473a-adca-09b8e7810038)
+![Screenshot 2024-07-20 205757](https://github.com/user-attachments/assets/f35dc0a3-1e3d-4ca6-affe-3cf4c0f6d14e)
